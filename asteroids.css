@@ -6,6 +6,10 @@
   text-align: center;
   }
 
+title {
+    display: none;
+  }
+
 h1 {
   color: #5F1AEF;
   font-size: 50px;
