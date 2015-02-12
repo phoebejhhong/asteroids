@@ -8,10 +8,23 @@
 
 title {
     display: none;
-  }
+}
 
 h1 {
   color: #5F1AEF;
   font-size: 50px;
   font-family: Helvetica, Geneva, sans-serif;
-  }
+}
+
+#restart {
+  width: 300px;
+  height: 50px;
+  border: 3px solid #5F1AEF;
+  background: #fff;
+  vertical-align: middle;
+  line-height: 44px;
+  color: #5F1AEF;
+  font-size: 28px;
+  font-family: Helvetica, Geneva, sans-serif;
+  visibility: hidden;
+}
